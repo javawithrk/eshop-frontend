@@ -1,3 +1,5 @@
+https://javawithrk.github.io/eshop-frontend/
+
 # 🛒 E-Shop — Frontend E-Commerce Web Application
 
 E-Shop is a responsive e-commerce web application built using **HTML, CSS, and Vanilla JavaScript**.
