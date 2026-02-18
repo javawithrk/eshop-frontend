@@ -50,6 +50,21 @@ eshop-frontend/
 
 ---
 
+## 📸 Screenshots
+
+### 🏠 Home Page
+![Home](screenshots/home.png)
+
+### 🛍️ Products Section
+![Products](screenshots/products.png)
+
+### 🛒 Shopping Cart
+![Cart](screenshots/cart.png)
+
+### 💳 Checkout
+![Checkout](screenshots/checkout.png)
+
+---
 
 ## 🔮 Future Enhancements
 
